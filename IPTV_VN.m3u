@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VTV",VTV1 HD
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
 #EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VTV",VTV2 HD
